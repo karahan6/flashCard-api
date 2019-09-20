@@ -1,2 +1,2 @@
-# flashCard-api
-Flashcard API
+# fuelPrice-api
+Fuel Price API
